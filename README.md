@@ -1,5 +1,7 @@
 # Reladomo First Example in Scala
 
+**Note: Reladomo is currently unmaintained.**
+
 This is a Scala project template to try Reladomo with main-kata's samples.
 
 https://github.com/goldmansachs/reladomo-kata/tree/master/main-kata
